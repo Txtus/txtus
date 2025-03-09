@@ -17,6 +17,6 @@ I'm a **Business Informatics (Software Engineering) student** and a **freelance 
 ## 📫 Let's Connect
 - **Website**: Coming soon
 - **GitHub**: [@txtus](https://github.com/txtus)
-- ** 44th Dev Disord**: [Link](https://discord.gg/SMvdkRnDZe)
+- **44th Dev Disord**: [Link](https://discord.gg/SMvdkRnDZe)
 
 🔹 Always open to new projects, collaborations, and opportunities!
